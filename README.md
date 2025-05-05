@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Brunda Ramakrishnappa Venkatesh
 
 🎓 Master’s in Information Technology with a focus on Security @ ASU | ☁️ Aspiring Cloud Engineer  
-🔒 Cloud Security | AWS & Azure tools
+🔒 Cloud Security | AWS & Azure tools | Terraform 
 
 ---
 
