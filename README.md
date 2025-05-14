@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 
-I'm an aspiring Cloud Engineer with over 2 years of experience in the cloud domain, deeply interested in designing, deploying, and securing infrastructure. I specialize in Infrastructure as Code (IaC) using Terraform, automating operations with PowerShell scripting, managing access and identity (IAM), and building scalable, secure environments across AWS and Azure. Currently pursuing my Master’s at ASU, I enjoy solving real-world problems using cloud-native technologies at the intersection of cloud operations and security.
+I'm an aspiring Cloud Engineer with over **2 years of experience in the cloud domain** , deeply interested in designing, deploying, and securing infrastructure. I specialize in Infrastructure as Code (IaC) using Terraform, automating operations with PowerShell scripting, managing access and identity (IAM), and building scalable, secure environments across AWS and Azure. Currently pursuing my Master’s at ASU, I enjoy solving real-world problems using cloud-native technologies at the intersection of cloud operations and security. I'm an **AWS Certified Solutions Architect** with a strong focus on applying cloud design and security best practices in every project I take on.
 
 I'm also actively building a public portfolio of AWS projects — ranging from beginner to advanced — to help others who are getting started in the cloud domain. These hands-on projects cover core services and best practices in cloud architecture.
 
