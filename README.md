@@ -28,7 +28,7 @@ I'm an **AWS Certified Solutions Architect** with a strong focus on applying clo
   - Deployed a scalable face recognition system on AWS with EC2, S3, SQS, achieving dynamic scaling and high-throughput processing for real-time image uploads.
   - Implemented a serverless face recognition pipeline using AWS Lambda functions, S3 buckets, and Docker, to process video uploads, extract frames, and identify faces using machine learning models with pre-trained embeddings.
   - 
-- **AI-Powered Serverless Recipe Generator **
+- **AI-Powered Serverless Recipe Generator**
   - Built a serverless application using AWS Amplify, Lambda, and Amazon Bedrock Claude 3 Sonnet to generate personalized recipes from user-provided ingredients through a React frontend.
   - Integrated secure user authentication with AWS Cognito and real-time API communication using AWS AppSync and GraphQL, ensuring seamless interaction between users and backend services.
   - Automated CI/CD via GitHub and Amplify hosting, enabling continuous deployment and scalable delivery of AI-drivencontent across authenticated user sessions
