@@ -13,15 +13,6 @@ I'm an **AWS Certified Solutions Architect** with a strong focus on applying clo
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Cloud Platforms:** AWS (EC2, S3, Lambda, IAM, VPC, CloudTrail, Config, Lex), Microsoft Azure Active Directory, On-prem AD
-- **Languages & Scripting:**  Python, SQL, JavaScript, HTML/CSS,PowerShell
-- **DevOps & Tools:** AWS CLI, Docker, Kubernetes, Terraform, Github Actions, ServiceNow, BeyondTrust
-- **Database & Storage:** MySQL, DynamoDB
-- **Visualization & Reporting:** Amazon QuickSight, Tableau
----
-
 ## 🚀 Projects
 
 - **Cloud Based Elastic Face Recognition System**
@@ -36,9 +27,21 @@ I'm an **AWS Certified Solutions Architect** with a strong focus on applying clo
 - **BankerBOT -Smart Banking Assistant**
   - Developed an AI chatbot using Amazon Lex and Natural Language Processing (NLP) to handle bank balance inquiries, money transfers, and transaction history retrieval.
   - Configured intent classification, fallback responses, and dynamic variations to improve chatbot accuracy, enhance user
- engagement, and provide a more conversational experience. 
+ engagement, and provide a more conversational experience.
 
-## 🌍 Let’s Connect!
+---
+
+## 🛠️ Tech Stack
+
+- **Cloud Platforms:** AWS (EC2, S3, Lambda, IAM, VPC, CloudTrail, Config, Lex), Microsoft Azure Active Directory, On-prem AD
+- **Languages & Scripting:**  Python, SQL, JavaScript, HTML/CSS,PowerShell
+- **DevOps & Tools:** AWS CLI, Docker, Kubernetes, Terraform, Github Actions, ServiceNow, BeyondTrust
+- **Database & Storage:** MySQL, DynamoDB
+- **Visualization & Reporting:** Amazon QuickSight, Tableau
+---
+
+
+
 
 ## 🌐 Let’s Connect!
 
