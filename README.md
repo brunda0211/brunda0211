@@ -17,21 +17,24 @@ I'm an **AWS Certified Solutions Architect** with a strong focus on applying clo
 
 - **Scalable Microservices E-Commerce Platform | AWS EKS, Terraform, Argo CD, Docker**
   - Deployed 10+ Java microservices on AWS EKS using Terraform modules for automated infrastructure provisioning (VPC, load balancers,
-security groups), reducing cluster setup time from 2 days to 30 minutes.
+    security groups), reducing cluster setup time from 2 days to 30 minutes.
   - Implemented single-touch GitOps CI/CD pipeline with GitHub Actions and Argo CD, reducing deployment time by 85% (from 45 minutes
-to 7 minutes) with zero-downtime releases and one-click rollbacks.
+    to 7 minutes) with zero-downtime releases and one-click rollbacks.
   - Configured AWS networking (multi-AZ VPC, ALB, Route 53 DNS) and containerized services with Docker, implementing health checks and
-horizontal pod autoscaling to handle 3x traffic spikes.
+     horizontal pod autoscaling to handle 3x traffic spikes.
    
-- **AI-Powered Serverless Recipe Generator**
-  - Built a serverless application using AWS Amplify, Lambda, and Amazon Bedrock Claude 3 Sonnet to generate personalized recipes from user-provided ingredients through a React frontend.
-  - Integrated secure user authentication with AWS Cognito and real-time API communication using AWS AppSync and GraphQL, ensuring seamless interaction between users and backend services.
-  - Automated CI/CD via GitHub and Amplify hosting, enabling continuous deployment and scalable delivery of AI-drivencontent across authenticated user sessions
+- **Multi-Tenant SaaS Platform | AWS, Prometheus, Terraform, ArgoCD, Kubernetes**
+  - Architected a production-ready multi-tenant SaaS platform on AWS EKS, reducing tenant onboarding from 4 hours to 5 minutes.
+  - Implemented a full CI/CD pipeline with GitHub Actions and Argo CD, enabling zero-downtime deployments and 15-minute release cycles.
+  - Configured intelligent auto-scaling (HPA, Cluster Autoscaler) to optimize resource usage and cut off-peak costs by 45%.
+  - Deployed centralized logging (CloudWatch/Loki) and monitoring (Prometheus/Grafana) for real-time observability with per-tenant cost
+    tracking, demonstrating 85% reduction in infrastructure costs.
+  - Enforced strict tenant isolation using namespaces, NetworkPolicies, and RBAC to ensure security compliance. Enforced strict tenant isolation     using namespaces, NetworkPolicies, and RBAC to ensure security compliance.
     
-- **BankerBOT -Smart Banking Assistant**
-  - Developed an AI chatbot using Amazon Lex and Natural Language Processing (NLP) to handle bank balance inquiries, money transfers, and transaction history retrieval.
-  - Configured intent classification, fallback responses, and dynamic variations to improve chatbot accuracy, enhance user
- engagement, and provide a more conversational experience.
+- **Cloud-based Elastic Face Recognition System | AWS EC2, Lambda, S3, SQS, Docker, Python, Node.js**
+  - Designed scalable face recognition pipeline on AWS EC2, S3, and SQS with custom autoscaling (20+ instances), processing 100+ concurrent
+    streams at 95% accuracy.
+  - Built serverless pipeline using AWS Lambda and Docker, cutting latency by 40% (11s to 6s) and infrastructure costs by 60%..
 
 ---
 
