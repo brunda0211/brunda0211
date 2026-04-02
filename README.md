@@ -15,9 +15,13 @@ I'm an **AWS Certified Solutions Architect** with a strong focus on applying clo
 
 ## 🚀 Projects
 
-- **Cloud Based Elastic Face Recognition System**
-  - Deployed a scalable face recognition system on AWS with EC2, S3, SQS, achieving dynamic scaling and high-throughput processing for real-time image uploads.
-  - Implemented a serverless face recognition pipeline using AWS Lambda functions, S3 buckets, and Docker, to process video uploads, extract frames, and identify faces using machine   learning models with pre-trained embeddings.
+- **Scalable Microservices E-Commerce Platform | AWS EKS, Terraform, Argo CD, Docker**
+  - Deployed 10+ Java microservices on AWS EKS using Terraform modules for automated infrastructure provisioning (VPC, load balancers,
+security groups), reducing cluster setup time from 2 days to 30 minutes.
+  - Implemented single-touch GitOps CI/CD pipeline with GitHub Actions and Argo CD, reducing deployment time by 85% (from 45 minutes
+to 7 minutes) with zero-downtime releases and one-click rollbacks.
+  - Configured AWS networking (multi-AZ VPC, ALB, Route 53 DNS) and containerized services with Docker, implementing health checks and
+horizontal pod autoscaling to handle 3x traffic spikes.
    
 - **AI-Powered Serverless Recipe Generator**
   - Built a serverless application using AWS Amplify, Lambda, and Amazon Bedrock Claude 3 Sonnet to generate personalized recipes from user-provided ingredients through a React frontend.
