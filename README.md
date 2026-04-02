@@ -7,11 +7,24 @@
 
 ## 💡 About Me
 
-I'm an aspiring **Cloud Engineer** with over **2 years of experience in the cloud domain** , deeply interested in designing, deploying, and securing infrastructure. I **specialize in Infrastructure as Code (IaC) using Terraform, Automating operations with PowerShell Scripting, CI/CD Pipelines, managing identity and access through AWS IAM, Azure AD (Microsoft Entra ID), Active Directory and building scalable, secure environments across AWS and Azure**. Currently pursuing my Master’s at ASU, I enjoy solving real-world problems using cloud-native technologies at the intersection of cloud operations and security. 
+I'm an aspiring Cloud DevOps Engineer with over 2 years of hands-on experience designing, deploying, and securing cloud infrastructure across AWS and Azure. My work sits at the intersection of cloud operations, identity security, and DevOps automation  and I bring that full-stack perspective to everything I build.
 
-I'm an **AWS Certified Solutions Architect** with a strong focus on applying cloud design and security best practices in every project I take on. I'm also actively building a public portfolio of AWS projects — ranging from beginner to advanced — to help others who are getting started in the cloud domain. These hands-on projects cover core services and best practices in cloud architecture.
+**Infrastructure & Automation**
+I specialize in Infrastructure as Code using Terraform, where I've provisioned and managed production-grade environments including EC2, VPC, Security Groups, EKS clusters, S3, RDS, and load balancers. I automate operations with PowerShell and Python — from bulk Active Directory provisioning to IAM policy validation and drift detection across 200+ AWS accounts.
 
----
+**Identity & Access Management**
+IAM is one of my deepest areas of expertise. I've architected hybrid identity solutions by federating AWS IAM with Microsoft Entra ID (Azure AD) and on-premises Active Directory using SAML, OAuth2, and OIDC — enabling seamless SSO, MFA enforcement, and RBAC across enterprise and cloud-native applications. I've led IAM access reviews aligned with SOC 2 and ISO 27001 compliance frameworks and served as a technical SME for escalated identity incident response.
+
+**CI/CD & DevOps**
+I design and maintain CI/CD pipelines using GitHub Actions and Argo CD, following GitOps principles to enable zero-downtime deployments and rapid release cycles. I've driven deployment time reductions of up to 85% through pipeline automation and containerization with Docker and Kubernetes.
+
+**Cloud Security & Monitoring**
+Security is a thread woven through all my work. I configure CloudTrail and CloudWatch for audit logging and identity monitoring, and I've contributed to AI security research — analyzing risks in AI code-generation tools like Kiro and Claude Code, mapping findings to OWASP Top 10, and building remediation frameworks presented to AWS and ASU engineering stakeholders.
+
+**Certifications & Credentials**
+I hold the AWS Certified Solutions Architect Associate certification and am pursuing further cloud security credentials. Currently completing my M.S. in Information Technology at Arizona State University (GPA: 3.96), expected May 2026.
+
+I'm actively building a public portfolio of AWS projects — ranging from beginner to advanced — to help others breaking into the cloud domain, covering core services and architecture best practices through hands-on, real-world implementations.
 
 ## 🚀 Projects
 
@@ -40,9 +53,9 @@ I'm an **AWS Certified Solutions Architect** with a strong focus on applying clo
 
 ## 🛠️ Tech Stack
 
-- **Cloud Platforms:** AWS (EC2, S3, Lambda, IAM, VPC, CloudTrail, Config, Lex), Microsoft Azure Active Directory, On-prem AD
+- **Cloud Platforms:** AWS (EC2, S3, VPC, RDS, IAM, Lambda, EKS, CloudTrail, CloudWatch, SNS, Route 53), Microsoft Entra ID, On-prem Active Directory
 - **Languages & Scripting:**  Python, SQL, JavaScript, HTML/CSS,PowerShell
-- **DevOps & Tools:** AWS CLI, Docker, Kubernetes, Terraform, Github Actions, ServiceNow, BeyondTrust
+- **DevOps & Tools:** Terraform, Linux, Docker, Kubernetes, Jenkins, Prometheus, Grafana, Git, Ansible.
 - **Database & Storage:** MySQL, DynamoDB
 - **Visualization & Reporting:** Amazon QuickSight, Tableau
 ---
